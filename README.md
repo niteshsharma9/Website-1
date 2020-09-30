@@ -35,7 +35,7 @@ you can create a secret key by this python oneliner :
 for a development server any random 50 character long string will do.
 also if you want to use another database then the default(sqlite) you have to configure it here.
 
-after that you will have to create a superuser and migrate django database stuff n all.
+after that you will have to create a superuser and migrate django database stuffs.
 
 ```
 manage.py makemigrations
